@@ -197,6 +197,7 @@ King's Head, SW5 0QT
 White Horse, SW6 4UL
 Queen's Arms, SW7 4QL
 Canton Arms, SW8 1XP
+Crown and Anchor, SW9 6AQ
 Trinity Arms, SW9 8DR
 Beehive, SW11 1TH
 Eagle Ale House, SW11 6HG
