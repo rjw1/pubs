@@ -283,23 +283,18 @@ Moon Under Water, TW3 3LF
 London Apprentice, TW7 6BG
 Red Lion, TW7 6QJ
 Plough, UB2 4LG
- White House, UB11 1AA
 Clock House, TW11 8HA
 Masons Arms, TW11 8PJ
 Rifleman, TW2 5EL
- Fox, TW1 3NR
- Prince Blucher, TW2 5AG
- Prince Of Wales, TW2 5QR
 Sussex Arms, TW2 5BG
 William Webb Ellis, TW1 3RR
 Three Tuns, UB8 1JN
- Load Of Hay, UB8 2PU
 Admiral Nelson, TW2 7BB
 Black Cat, HP5 3LF
 Black Horse, HP5 3NS
 Queens Head, HP5 1JD
-Black Lion, CM16 4DA
 Forest Gate, CM16 4DZ
+Victoria Tavern, IG10 4BP
 Woolpack, SM7 2NZ
 King And Queen, CR3 5UA
 Albion, KT8 9HA
@@ -307,3 +302,6 @@ Barley Mow, KT17 4EA
 Jolly Coopers, KT18 7SD
 Rising Sun, KT18 5DX
 George And Dragon, KT7 0RY
+Rose and Crown, WD3 5LW
+Sportsman, WD3 3AD
+Feathers, WD3 1DJ
