@@ -196,8 +196,7 @@ Blackbird, SW5 9AN
 King's Head, SW5 0QT
 White Horse, SW6 4UL
 Queen's Arms, SW7 4QL
-Priory Arms, SW8 2PB
-Surprise, SW8 2PP
+Canton Arms, SW8 1XP
 Trinity Arms, SW9 8DR
 Beehive, SW11 1TH
 Eagle Ale House, SW11 6HG
