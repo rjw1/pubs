@@ -116,16 +116,16 @@ White Horse, HA2 0HL
 Village Inn, HA5 5DY
 JJ Moons, HA4 0AA
 Windermere, HA9 8QT
+Simon the Tanner, SE1 4PR
 Market Porter, SE1 9AA
-Old Kings Head, SE1 1NA
 Rake, SE1 9AG
 Royal Oak, SE1 4JU
-Wheatsheaf, SE1 1TY
+Ship, SE1 1DX
+Shipwrights Arms, SE1 2TF
 Charles Dickens, SE1 0LH
-Doggett's, SE1 9UD
-Hole In The Wall, SE1 8SQ
 King's Arms, SE1 8TB
 Princess Of Wales, SE3 0RL
+Royal Standard, SE3 7JQ
 Talbot, SE4 1QG
 Bear, SE5 0RP
 Hermit's Cave, SE5 8QU
