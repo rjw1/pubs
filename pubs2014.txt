@@ -73,6 +73,7 @@ Duke Of Wellington, N1 4BL
 Bald Faced Stag, N2 8AB
 Old Dairy, N4 4AP
 Snooty Fox, N5 2NN
+Bull, N6 4AB
 Gatehouse, N6 4BD
 Prince Of Wales, N6 5JX
 Red Lion And Sun, N6 4BE
