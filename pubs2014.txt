@@ -153,17 +153,14 @@ Florence, SE24 0NG
 Half Moon, SE24 9HU
 Hope, SE27 9JS
 Claret Free House, CR0 7AA
-Cricketers, CR0 7ER
 Jolly Woodman, BR3 6NR
 Railway Tavern, DA5 1AH
-Earl Haig, DA7 5HH
 Furze Wren, DA6 7DY
 Robin Hood And Little John, DA6 8PF
-Partridge, BR1 1HE
+George Staples, DA15 8PR
+Barrel and Horn, BR1 1PW
 Red Lion, BR1 3LG
-Two Doves, BR2 8HD
 Five Bells, BR6 7RE
-Crayford Arms, DA1 4HH
 Builders Arms, CR0 6TP
 Dog And Bull, CR0 1RG
 George, CR0 1LA
@@ -173,10 +170,10 @@ Half And Half, CR0 1NG
 Royal Standard, CR0 1SS
 Skylark, CR0 1DP
 Spreadeagle, CR0 1NX
+Woodman, BR6 7BA
 Queen's Head, BR6 7US
-Greyhound, BR2 6BP
 Sovereign Of The Seas, BR5 1DG
-Bull's Head, BR6 7NQ
+Tailor's Chalk, DA14 6ED
 Prince Of Wales, DA17 5EE
 New Cross Turnpike, DA16 3PB
 Railway Hotel, BR4 0EW
